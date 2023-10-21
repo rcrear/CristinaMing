@@ -1504,6 +1504,11 @@ ul.actions li:first-child {
   }
 }
 
+/* Nav obras */
+.nav-obras a {
+  width: 0.6em !important;
+}
+
 /* Wrapper */
 #wrapper {
   width: 45em;
