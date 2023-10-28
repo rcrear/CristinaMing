@@ -166,7 +166,7 @@
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #777777;
+		color: #323131;
 		font-size: 20pt;
 		line-height: 1.75em;
 
@@ -189,8 +189,9 @@
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #363636;
+		color: #252525;
 	}
+
 
 	h1 {
 		font-size: 2.4em;
@@ -292,7 +293,7 @@
 		label {
 			display: block;
 			font-weight: 400;
-			color: #363636;
+			color: #2a2a2a;
 			margin: 0 0 1em 0;
 		}
 
@@ -321,19 +322,19 @@
 		}
 
 		::-webkit-input-placeholder {
-			color: #999;
+			color: #2b2a2a;
 		}
 
 		:-moz-placeholder {
-			color: #999;
+			color: #2e2d2d;
 		}
 
 		::-moz-placeholder {
-			color: #999;
+			color: #363535;
 		}
 
 		:-ms-input-placeholder {
-			color: #999;
+			color: #333333;
 		}
 	}
 
@@ -353,7 +354,7 @@
 
 		> p {
 			margin: 0.5em 0 0 0;
-			color: #aaa;
+			color: #302f2f;
 		}
 
 		@include breakpoint('<=small') {
