@@ -71,6 +71,12 @@ input, select, textarea {
   appearance: none;
 }
 
+/* Iframe */
+iframe {
+  width: 100% !important;
+  border: 0;
+}
+
 /* Row */
 .row {
   display: flex;
