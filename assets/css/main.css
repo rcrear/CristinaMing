@@ -1782,4 +1782,21 @@ body.is-preload #wrapper {
     padding-left: 0.5em;
     margin-left: 0.5em;
   }
+}
+
+.intro-bio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.intro-bio img {
+  width: 35%;
+}
+
+.intro.bio header {
+  width: 65%;
 }/*# sourceMappingURL=main.css.map */
