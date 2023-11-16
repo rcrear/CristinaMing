@@ -513,6 +513,18 @@ iframe {
 		}
 	}
 
+/* Custom-Icon1 */
+	.custom-icon1 {
+		display: inline-block;
+		padding-left: 20px; /* Adjust the padding to your liking */
+		background: url('images/home.png') no-repeat left center; /* Replace 'path/to/your/image.png' with the actual path to your PNG image */
+		background-size: contain; /* Adjust the background size as needed */
+	  }
+	  
+	  .custom-icon1 span {
+		display: none; /* Hide the default text */
+	  }
+
 /* Icons */
 
 	.icon {
